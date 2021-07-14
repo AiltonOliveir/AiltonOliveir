@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/AiltonMamoru/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/facebook.png"/>
   </a>
-    <a href="http://lattes.cnpq.br/4530142155618120">
+    <a href="https://scholar.google.com/citations?user=rp-O0o8AAAAJ&hl">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/search.png"/>
   </a>
   
