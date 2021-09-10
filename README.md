@@ -7,6 +7,7 @@
 :computer: I am completely passionate about programming and all its aspects. I have knowledge about some programming languages: Python, C, C ++ and Java, and I'm specializing in artificial intelligence topics.
 ✨ _I aim to learn and share knowledge_ 🔭 ✨
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiltonOliveir&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
