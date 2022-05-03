@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-:mortar_board: I'm Ailton Oliveira and I'm a soon-to-be graduate in Electrical Engineering in the Federal University of Pará (UFPA) ⚡
+:mortar_board: I'm Ailton Oliveira and I'm a Electrical Engineer graduate at Federal University of Pará (UFPA).  ⚡
 
 :satellite: I've experience in the area of Electrical Engineering, with emphasis on Machine learning and telecommunications, acting mainly in the following subjects: Data analysis, Digital communications, Deep learning, Reinforcement  learning, 4G/ 5G / B5G mobile networks. 
 
