@@ -21,11 +21,15 @@
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AQL-informational?style=flat&logo=ArangoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Apache_Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
+
 
 
 ## Connect with me: 
