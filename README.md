@@ -40,7 +40,7 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href="mailto:ailtonpoliveira01@gmail.com">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/gmail.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
   </a>
   <a href="https://www.instagram.com/ailton_ol/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png"/>
