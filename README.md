@@ -29,6 +29,10 @@
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Apache_Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+
 
 
 
