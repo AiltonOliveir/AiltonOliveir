@@ -4,7 +4,7 @@
 
 :satellite: I've experience in the area of Electrical Engineering, with emphasis on Machine learning and telecommunications, acting mainly in the following subjects: Data analysis, Digital communications, Deep learning, Reinforcement  learning, 4G/ 5G / B5G mobile networks. 
 
-:computer: I am completely passionate about programming and all its aspects. I have knowledge about some programming languages: Python, C, C ++ and Java, and I'm specializing in artificial intelligence topics.
+:computer: I am completely passionate about programming and all its aspects. I have knowledge about some programming languages: Python, JavaScript, C ++ and GO, and I'm specializing in artificial intelligence topics.
 ✨ _I aim to learn and share knowledge_ 🔭 ✨
 
 <!--- ([![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiltonOliveir&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)) -->
